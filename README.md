@@ -86,8 +86,8 @@ Confira meus repositórios para acompanhar minha evolução como desenvolvedor e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasssouzzzaa&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasssouzzzaa&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasssouzzzaa&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasssouzzzaa&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
